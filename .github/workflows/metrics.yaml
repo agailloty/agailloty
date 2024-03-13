@@ -13,8 +13,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # Repository-specific GITHUB_TOKEN for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: agailloty
