@@ -11,4 +11,6 @@ My name is Axel-Cleris and I work as a Software Developer. My interests are .NET
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/cgailloty/
 
-![Metrics](https://github.com/agailloty/agailloty/blob/main/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
