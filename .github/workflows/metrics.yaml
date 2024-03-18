@@ -21,7 +21,7 @@ jobs:
           config_animations: yes
           config_timezone: Europe/Paris
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+          plugin_languages_ignored: html, css, tex, ipynb, less, dockerfile, makefile, qmake, lex, cmake, shell
           plugin_languages_skipped: agailloty
           plugin_habits: yes
           plugin_habits_from: 250
