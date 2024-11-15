@@ -22,7 +22,7 @@ jobs:
           config_timezone: Europe/Paris
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, tsql, jupyter notebook, less, makefile, qmake, lex, cmake, shell
-          plugin_languages_skipped: tsql, jupyter notebook
+          plugin_languages_skipped: jupyter notebook
           plugin_habits: yes
           plugin_habits_from: 250
           plugin_habits_days: 30
