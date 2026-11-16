@@ -4,24 +4,20 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/agailloty)
 [![GitHub followers](https://img.shields.io/github/followers/agailloty.svg?style=social\&label=Follow)](https://github.com/agailloty?tab=followers)
 
-## Software Engineer · .NET · Web · APIs · Developer Tools
+## Ingénieur logiciel · C# / .NET
 
-I'm a **Software Engineer** with a strong background in designing, building and evolving business-critical applications.
+Je suis ingénieur logiciel, animé par la curiosité : comprendre comment fonctionnent les systèmes, ce qui rend une conception solide et ce qu'il faut pour construire des logiciels durables.
 
-My main ecosystem is **C# / .NET**, but I don't define software engineering by a particular framework or programming language. I enjoy understanding a problem, designing an appropriate architecture, and turning it into software that is **robust, maintainable and useful**.
+Mon écosystème principal est C# / .NET (backend, API REST, web, desktop, données). Pour chaque problème, je choisis l'outil adapté : Python pour la donnée, Go ou Rust pour les outils en ligne de commande, SQL en socle.
 
-My experience spans **backend development, REST APIs, web and desktop applications, data processing, system integration and software modernization**.
+Partout où la curiosité me mène, je garde les mêmes pratiques :
 
-I also work with **Python, Go, SQL and JavaScript**, particularly when they are better suited to the problem at hand.
+* Une conception simple et maintenable
+* Des tests idiomatiques et des revues de code honnêtes
+* Des commits courts et des décisions d'architecture documentées
+* Des livrables reproductibles et automatisés
 
-### What I like working on
-
-* 🏗️ **Software design & architecture** — turning complex requirements into maintainable systems
-* 🌐 **Backend & Web** — ASP.NET Core, REST APIs, Blazor and system integration
-* ⚙️ **Developer tooling & automation** — building tools that simplify repetitive or complex workflows
-* 📊 **Data & Machine Learning** — Python, data processing, ML and interoperability with production applications
-* 🔄 **Software modernization** — evolving existing systems while keeping them reliable
-* 🐳 **Delivery & reproducibility** — Docker, CI/CD and automated workflows
+Les dépôts ci-dessous sont le fruit de cette curiosité : un outil de renommage de photos à partir des métadonnées EXIF, un pipeline de prétraitement de données piloté par configuration, un explorateur XPath. Chacun est né d'une question et est devenu une occasion de construire du logiciel correctement.
 
 ## Selected projects
 
